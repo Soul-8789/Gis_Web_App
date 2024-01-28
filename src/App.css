@@ -1,0 +1,132 @@
+/* App.css */
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.app {
+  display: flex;
+}
+.sidebar-left{
+height: 100%;
+width: 20%;
+
+}
+.main{
+  width: 80%;
+  height: 100%;
+  margin-left: 20px;
+}
+.sidebar {
+  width: 60px; /* Adjust the width as needed */
+  background-color: #10127d;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  z-index:0;
+  /* position: fixed; */
+  /* padding-bottom: 8px; */
+}
+
+.strip {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+  border-radius: 5px;
+  height: 100vh;
+  /* justify-content: space-between; Set the height to 100vh to make the strip full height */
+}
+
+.menu div {
+  margin-bottom: 20px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.menu-icon {
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  height: 8px;
+  width: 8px;
+}
+
+.profile-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 10px;
+  height: 100vh;
+}
+
+.profile-icon,
+.logout-icon {
+  cursor: pointer;
+  margin-top: 10px;
+
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.popup {
+  /* position: fixed; */
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 200px;
+  height: 100vh; /* Adjust the width as needed */
+  /* background-color: #555; */
+  color: black;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  overflow-y: auto;
+  z-index: 2;
+  margin: 2px;
+  border: 2px solid black;
+
+}
+
+.popup h3 {
+  margin-bottom: 10px;
+  text-align: center;
+
+}
+
+.content-area {
+  padding: 10px;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+}
+
+.icon {
+  background-color: white;
+  margin-left: 2px;
+  margin-top: 8px;
+}
+
+.profile-icons{
+  position: relative;
+  justify-content: space-between;
+  bottom: 0;
+}
+
+.home {
+  display: flex;
+  flex-direction: row;
+}
+
+/* .logout-icon{
+  bottom: 0;
+} */
