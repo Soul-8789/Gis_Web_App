@@ -16,6 +16,10 @@ polygons. Enable users to overlay and visualize multiple layers simultaneously.
 Implement the ability to upload and import spatial data in common formats like
 GeoJSON (or KML or Shapefile).
 ![Photo5](https://github.com/Soul-8789/Gis_Web_App/assets/102282026/2636dea7-38a7-45e5-9449-6fda1ba37ccb)
+
+# Uploaded Geojson file
+![Photo7](https://github.com/Soul-8789/Gis_Web_App/assets/102282026/9c600a93-5fa1-4803-b0d0-ee2041843f48)
+
 ## Search and Geocoding:
 o Task: Integrate an address search and geocoding feature.
 ![Photo6](https://github.com/Soul-8789/Gis_Web_App/assets/102282026/cca8c1b0-32a4-439c-a3f4-518ccd81bfe0)
@@ -23,8 +27,9 @@ o Task: Integrate an address search and geocoding feature.
 o Task: Develop features allowing users to add, edit, or delete spatial features
 ![Photo8](https://github.com/Soul-8789/Gis_Web_App/assets/102282026/21325032-4d0c-4d47-8b08-45698a556f2f)
 
-# Basic  Map layers
-![Photo7](https://github.com/Soul-8789/Gis_Web_App/assets/102282026/9c600a93-5fa1-4803-b0d0-ee2041843f48)
+# Basic  Map Layers
+![Photo11](https://github.com/Soul-8789/Gis_Web_App/assets/102282026/8bdc99ee-68bb-4107-a590-a5bfbbd60a75)
+
 # Left View 
 ![Photo4](https://github.com/Soul-8789/Gis_Web_App/assets/102282026/457a8454-9455-4fd9-8f31-be1374c0eade)
 
