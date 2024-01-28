@@ -1,17 +1,34 @@
-## Running React on Repl.it
+## Basic GIS Web App
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+## Map Visualisation
+Task: Implement an interactive map interface with Zoom and Pan. Include options
+for users to switch between different map layers such as satellite imagery, and
+OSM maps.
+## Osm Map
+![photo1](https://github.com/Soul-8789/Gis_Web_App/assets/102282026/03802474-c389-4c46-9416-fb1c1445b12b)
+## Satellite Imagery
+![photo2](https://github.com/Soul-8789/Gis_Web_App/assets/102282026/1e16525a-7c16-4bcc-b817-0999e65fa163)
+## Google map
+![Photo3](https://github.com/Soul-8789/Gis_Web_App/assets/102282026/2b5d4690-0f58-4cd8-8ee1-a9263e4dee0c)
+## Spatial Data Layers:
+o Task: Develop support for various spatial data layers, including points, lines, and
+polygons. Enable users to overlay and visualize multiple layers simultaneously.
+Implement the ability to upload and import spatial data in common formats like
+GeoJSON (or KML or Shapefile).
+![Photo5](https://github.com/Soul-8789/Gis_Web_App/assets/102282026/2636dea7-38a7-45e5-9449-6fda1ba37ccb)
+## Search and Geocoding:
+o Task: Integrate an address search and geocoding feature.
+![Photo6](https://github.com/Soul-8789/Gis_Web_App/assets/102282026/cca8c1b0-32a4-439c-a3f4-518ccd81bfe0)
+## Data Editing( Good To Have/Optional)
+o Task: Develop features allowing users to add, edit, or delete spatial features
+![Photo8](https://github.com/Soul-8789/Gis_Web_App/assets/102282026/21325032-4d0c-4d47-8b08-45698a556f2f)
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+# Basic  Map layers
+![Photo7](https://github.com/Soul-8789/Gis_Web_App/assets/102282026/9c600a93-5fa1-4803-b0d0-ee2041843f48)
+# Left View 
+![Photo4](https://github.com/Soul-8789/Gis_Web_App/assets/102282026/457a8454-9455-4fd9-8f31-be1374c0eade)
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+# Right View
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+![Photo10](https://github.com/Soul-8789/Gis_Web_App/assets/102282026/163e6f54-b171-4de8-bcdf-301bd73b8b09)
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
-
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
